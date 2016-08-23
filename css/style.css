@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     width: 100%;
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .header {
@@ -9,7 +10,6 @@ html, body {
 }
 
 .body {
-    background: url("/images/macbook_pro_apple_noutbuk_naushniki_stol_98893_2560x1440.jpg");
-    color: aliceblue;
+    background: url("../images/one.jpg");
     font-size: medium;
 }
