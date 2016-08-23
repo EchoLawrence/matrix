@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.header {
+    font-size: large;
+}
+
+.body {
+    background: url("/images/macbook_pro_apple_noutbuk_naushniki_stol_98893_2560x1440.jpg");
+    color: aliceblue;
+    font-size: medium;
+}
